@@ -2,21 +2,21 @@
 //
 
 #include <iostream>
-
+#include <string>
 int main()
 {
     char firstinitial;
     char middleinitial;
     char lastinitial;
     std::cout << "pleae enter the initial of your first name:";
-}   std::cin >> firstinitial;
-    std::cout << "please enter the initial of your middle name:";
-    std::cin >> middleinitial;
-    std::cout << "Please enter the initial of your last name:";
-    std::cin >> lastinitals;
-    std::cout << "your initals are:;" << firstinital << middleinital << lastinital;
-
-
+}   std::cin; >> firstinitial;
+    std::cout; << "please enter the initial of your middle name:";
+    std::cin; >> middleinitial;
+    std::cout; << "Please enter the initial of your last name:";
+    std::cin; >> lastinitals;
+    std::cout; << "your initals are:;" << firstinital << middleinital << lastinital;
+    std::cin; >> firstname;
+    std::cout; << "your first name is:" << firstname;
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
